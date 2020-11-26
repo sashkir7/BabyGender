@@ -1,0 +1,219 @@
+/* 
+  Localizable.string.strings
+  BabyGenderPlanning
+
+  Created by Nikita Velichkin on 21/02/2020.
+  Copyright © 2020 BytePace. All rights reserved.
+*/
+
+// MARK: - Methods
+
+"freymanDobrotingMethod" = "Freiman-Dobrotin method";
+"bloodRenewalMethod" = "Blood renewal method";
+
+// MARK: - Alerts
+
+"alert_ok" = "OK";
+"alert_cancel" = "Cancel";
+"alert_delete" = "Delete";
+"alert_delete_title" = "Delete confirmation";
+"alert_delete_message" = "Do you really want to delete?";
+
+// MARK: - Toast messages
+
+"toast_missingInput" = "Some fields are not filled";
+"toast_unknownGender" = "In this case the algorithm doesn't work. We apologize for the inconvenience.";
+"toast_noFavorableDates" = "No favorable dates found. Try to increase your search terms";
+
+//MARK: - DropDown
+
+"dropDown_saveMother" = "Save mother";
+"dropDown_saveFather" = "Save father";
+"dropDown_chooseSaved" = "Add from saved parents";
+
+// MARK: - Buttons
+
+"button_done" = "Done";
+"button_cancel" = "Cancel";
+
+// MARK: - Menu
+
+"sideMenu_title" = "Menu";
+"sideMenu_genderPrediction" = "Find out baby's gender";
+"sideMenu_premium" = "Premium subscription";
+"sideMenu_planning" = "Baby's gender planning";
+"sideMenu_parents" = "Parents";
+"sideMenu_savedResults" = "Saved results";
+"sideMenu_write" = "Contact developers";
+"sideMenu_about" = "About the app";
+
+// MARK: - Page title
+
+"page_title_genderPrediction" = "Find out baby's gender";
+"page_title_genderPlanning" = "Baby's gender planning";
+"page_title_parents" = "Parents";
+"page_title_recommendations" = "Hints & Tips";
+"page_title_aboutMethod" = "More about method";
+
+// MARK: - Gender Prediction Screen
+
+"aboutMethod" = "More about method";
+"femaleBirthdayDate"= "Mother's birthday";
+"maleBirthdayDate"= "Father's birthday";
+"bloodGroup" = "Blood type";
+"dateFormat" = "DD/MM/YYYY";
+"bloodLoss" = "Blood loss";
+"estimatedConceptionDate" = "Expected conception date";
+"checkOnBornChildrens" = "Check on born children";
+"babyBirthdayDate" = "Child's birthday";
+"pregnancyDuration" = "The number of weeks the pregnancy lasted";
+"pregnancyDuration_placeholder" = "40 weeks (9 month)";
+"conceptionDate" = "Conception date: ";
+"calculate_button_title" = "Calculate";
+"planning_button_title" = "Let's plan";
+
+"doYouHaveABoy" = "Do you have a boy?\n Probable dates of conception:";
+"doYouHaveAGirl" = "Do you have a girl?\n Probable dates of conception:";
+"youHaveABoy" = "Congratulations!\n  You will have a boy!";
+"youHaveAGirl" = "Congratulations!\n You will have a girl!";
+
+// MARK: - Gender Planning Screen
+
+"choosePlannedBabyGender" = "Select the preferred baby's gender";
+"chooseConceptionDatePeriod" = "Select the estimated conception period";
+"favorableConceptionDaysForGirl" = "Favorable days for the conception of a girl";
+"favorableConceptionDaysForBoy" = "Favorable days for the conception of a boy";
+"recommendations_button_title" = "Hints & Tips";
+
+"oneMonth" = "1 month";
+"twoMonth" = "2 months";
+"threeMonth" = "3 months";
+"sixMonth" = "6 months";
+
+"january" = "January";
+"february" = "February";
+"march" = "March";
+"april" = "April";
+"may" = "May";
+"june" = "June";
+"july" = "July";
+"august" = "August";
+"september" = "September";
+"october" = "October";
+"november" = "November";
+"december" = "December";
+
+// MARK: - About blood loss
+
+"lastDateOfBloodLossRequired" = "Add the date of last blood loss";
+"relatedToBloodLoss" = "The blood loss includes:";
+
+"laparoscopy" = "The abdominal surgery or laparoscopical surgery";
+"bloodTransition" = "Blood transfusion";
+"bloodDonation" = "Donorship";
+"accident" = "The big blood loss by an accident";
+"givingBirth" = "Birth (first or last)";
+"abortion" = "Termination of pregnancy";
+"fetalLoss" = "Loss of a baby";
+
+// MARK: - Blood group picker
+
+"chooseBloodGroup" = "Select blood type";
+"rhesusFactor" = "Rhesus Factor";
+
+// MARK: - Parents Screen
+
+"bloodLoss_date_title" = "Blood loss date";
+"father_section_title" = "Father";
+"mother_section_title" = "Mother";
+
+// MARK: - Parent Screen
+
+"parent_screen_title" = "Save parent";
+"parentName" = "Parent's name";
+"chooseParentGender" = "Select parent's gender";
+"birthdayDate" = "Birthday";
+"buttonSave" = "Save";
+
+"femaleGender" = "Female";
+"maleGender" = "Male";
+
+// MARK: - Premium Screen
+
+"buttonBuy" = "Buy";
+
+"premium_title_one" = "Baby's gender planning";
+"premium_title_two" = "Save parents";
+"premium_title_three" = "Advantages";
+
+"premium_description_one" = "You can choose desirable baby's gender and the app calculates favorable conception days.";
+"premium_description_two" = "Появится возможность сохранить данные о родителях, чтобы при повторном расчете не вводить их заново.";
+"premium_description_three" = "You can choose desirable baby's gender and the app calculates favorable conception days.";
+
+// MARK: - Subscriptions Screen
+
+"subscription_description" = "Buy the premium subscription and plan your future baby's gender.
+Save reckoning results with favorable conception dates and parent's info for further planning.";
+
+"subscription_oneMonth" = "$1 / 1 month";
+"subscription_threeMonths" = "$2,5 / 3 months";
+"subscription_sixMonths" = "$4,5 / 6 months";
+"subscription_oneYear" = "$8 / 1 year";
+
+"subscription_threeMonths_saving" = "Savings in subscription for 3 months - $ 0.5";
+"subscription_sixMonths_saving" = "Savings in subscription for 6 months - $ 1.5";
+"subscription_oneYear_saving" = "Savings in subscription for 1 year - $ 4";
+
+"purchasing_subscription" = "Wait please, purchase in process...";
+"purchasing_subscription_success" = "The subscription purchase success!";
+"purchasing_subscription_failure" = "Failed to purchase subscription";
+
+// MARK: - Saved Result Screen
+
+"showAllDates" = "Show all dates";
+"calculation" = "Reckoning";
+
+"recommendations_boy" = "1. Don't have a sex 3-4 days before reference ovulation date. The sperm cells quantity will be higher.
+2. The warm baths are excluded for 7 days at least.
+3. The conceptions works only during the sex for having a baby.
+4. After the conception use contraceptive methods (condoms) by the next sex.
+5. The best condition for conception is orgasm.
+6. Have a prolonged foreplay to gain a maximum sperm concentration.
+7. The pose has to provide deep penetration.
+8. Coffee before a sex (2 hours before) will increase the sperm quantity.
+9. Don't use lubricants.\n
+Two months before the conception you have stick to the special diet that will oxydize organism and allow man-spermatozoons survive. For the male baby's gender you have to:
+* Eat meat, potatoes, pickles, sausages, mushrooms, bananas, apricots, oranges, peaches and fig.
+* Drink tea, coffee and fuit juices.
+* Exclude dairy products, cabbage, nuts and beans.
+* Undesirable to eat eggs, shrimps, chees, nuts, milk chocolate and green salad, drink milk coctails, soft water and mineral water with calcium.
+This diet brings good results. It helps to make more oxyd environment. It affects on biochemical egg composition that makes more favorable for a boy conception.";
+
+"recommendations_girl" = "Girls time is 2-3 days before ovulation. At that moment an egg is pedisposed to get woman's X-spermatozoons. The environment and condition are perfect. It's enough for woman to keep the track of her cycle calendar, and then it's easy to calculate favorable day.\n
+To increase the chance to have a girl you need:
+1. A pose that provides shallow penetration (classic).
+2. To have sex before and after conception.
+3. To fix the sperm in the organism for 20 minutes.\n
+Diet for a girl conception:
+* Meat products (beef, veal, lamb)
+* Milk, cottage cheese, sour cream
+* Fruits
+* Tea, fruit juices, cocoa";
+
+// MARK: - About App Screen
+
+"aboutApp" = "    This app is an instrument for your future baby's gender calculation by the two most popular methods.
+
+    The calculation results of both methods show only the possibility to have a baby this or that gender, as the actual gender can depend on many factors and parents' organisms physiological characteristics.";
+
+// MARK: - About Method
+
+"about_freymanDobrotin" = "    This method was developed by Michael Freiman according to statistics of Svyatoslav Dobrotin, professor of the medical department of the Nizhegorodsky Medical State University. This statistics was drafted and checked during the Svyatoslav Dobrotin work in the I Maternity Home as chief medical officer in the Gorky city. The predictions were right in 99 cases of 100.
+
+    The spouses, who decided to have a baby, had to set a possible conception date, that is on 10-15 day since the new menstrual cycle. Then, by the parents' birthdays, define the baby's gender that is expected on your chosen conception day. If the prediction result won't be favorable, reschedule the conception for the next month and repeat calculation.";
+
+"about_bloodRenewal" = "    Due to this method the baby's gender depens on the parents' blood - who has the freshest blood. Thus, if father has the blood renewal date later than mother's, they will have a boy. And vise versa.
+
+    The blood has the property to renew. Woman's renew cycle takes 1 time in 3 years, man's cycle takes 1 time in 4 years. If woman's cycle was earlier the baby's gender will be female, If man's cycle was earlier the baby's gender will be male. In this case the Rhesus factor is very important. If mother has a negative Rhesus factor, the baby's gender will depends on the fact who has the stagnater blood.
+
+    The blood loss directly affects on blood renewal cycles. The blood loss means loos of more than 400 ml. For example: abdominal surgery or laparoscopical surgery, blood transfusion, donorship, the big blood loss by an accident, etc. For women it needs to take into account delivery (first or last), termination of pregnancy, loss of a baby.";

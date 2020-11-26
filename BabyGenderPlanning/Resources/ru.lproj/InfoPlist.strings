@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  BabyGenderPlanning
+
+  Created by KIREEV ALEXANDER on 18.09.2020.
+  Copyright © 2020 BytePace. All rights reserved.
+*/
+
+CFBundleDisplayName = "Пол ребенка";
+CFBundleName = "Planning Baby Gender";

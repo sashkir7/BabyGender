@@ -1,0 +1,263 @@
+/* 
+  Localizable.string.strings
+  BabyGenderPlanning
+
+  Created by Nikita Velichkin on 21/02/2020.
+  Copyright © 2020 BytePace. All rights reserved.
+*/
+
+// MARK: - Methods
+
+"freymanDobrotingMethod" = "フライマン-ドブロチン法";
+"freymanDobrotingMethod_short" = "フライマン-ドブロチン法";
+"bloodRenewalMethod" = "血液更新方法";
+
+// MARK: - Alerts
+
+"alert_ok" = "ОК";
+"alert_cancel" = "キャンセル";
+"alert_delete" = "情報を削除する";
+"alert_delete_title" = "削除の確認";
+"alert_delete_message" = "消去してもよろしいですか？";
+"alert_exit_confirmation" = "終了確認";
+"alert_agree_exit" = "アプリケーションを終了してもよろしいですか？ 入力したデータは失われます";
+
+// MARK: - Toast messages
+
+"toast_missingInput" = "すべての必須フィールドに入力されていません";
+"toast_unknownGender" = "この状況では、アルゴリズムは無力です。 ご不便をおかけして申し訳ございません";
+"toast_noFavorableDates" = "有利な日付は見つかりませんでした。 検索時間を増やすようにしてください";
+"toast_conceptionDateInvalid" = "子供の受胎日は、両親の指定された生年月日以上である必要があります";
+"toast_bloodLossDateInvalid" = "失血の日付は生年月日より少なくすることはできません";
+"toast_acceptPolicy" = "アプリケーションを使用するには、ユーザーの同意に同意する必要があります";
+
+//MARK: - DropDown
+
+"dropDown_saveMother" = "母親情報を保存";
+"dropDown_saveFather" = "父親情報を保存";
+"dropDown_chooseSaved" = "保存済みから選択";
+
+// MARK: - Buttons
+
+"button_done" = "Ok";
+"button_cancel" = "キャンセル";
+"button_accept" = "受け入れるために";
+
+// MARK: - Menu
+
+"sideMenu_title" = "メニュー";
+"sideMenu_genderPrediction" = "赤ちゃんの性別を調べる";
+"sideMenu_premium" = "プレミアムサブスクリプション";
+"sideMenu_planning" = "赤ちゃんの性別計画";
+"sideMenu_parents" = "親";
+"sideMenu_savedResults" = "保存された結果";
+"sideMenu_write" = "開発者に連絡する";
+"sideMenu_about" = "アプリについて";
+
+// MARK: - Page title
+
+"page_title_genderPrediction" = "将来の赤ちゃんの性別を見つける";
+"page_title_genderPlanning" = "赤ちゃんの性別計画";
+"page_title_parents" = "親";
+"page_title_recommendations" = "推奨事項";
+"page_title_aboutMethod" = "方法の詳細";
+
+// MARK: - Gender Prediction Screen
+
+"aboutMethod" = "方法の詳細";
+"femaleBirthdayDate"= "母の誕生日";
+"maleBirthdayDate"= "父の誕生日";
+"bloodGroup" = "血液型";
+"dateFormat" = "日 / 月 / 年";
+"bloodLoss" = "失血";
+"estimatedConceptionDate" = "受胎予定日";
+"checkOnBornChildrens" = "生まれた子供を確認する";
+"babyBirthdayDate" = "子供の誕生日";
+"pregnancyDuration" = "妊娠は何週間続きましたか";
+"pregnancyDuration_placeholder" = "40週間（9か月";
+"conceptionDate" = "Дата зачатия: ";
+"calculate_button_title" = "計算する";
+"planning_button_title" = "子供を計画しましょう";
+"newReckoning_button_title" = "新しい計算";
+
+"doYouHaveABoy" = "男の子がいますか？\n 受胎可能日:";
+"doYouHaveAGirl" = "女の子がいますか？\n 受胎可能日:";
+"youHaveABoy" = "おめでとう！\n あなたは男の子を産むでしょう！";
+"youHaveAGirl" = "おめでとう！\n あなたは女の子を産むでしょう！";
+
+// MARK: - Gender Planning Screen
+
+"choosePlannedBabyGender" = "好みの赤ちゃんの性別を選択してください";
+"chooseConceptionDatePeriod" = "推定受胎期間を選択してください";
+"favorableConceptionDaysForGirl" = "女の子の受胎にとって好ましい日";
+"favorableConceptionDaysForBoy" = "男の子の受胎にとって好ましい日";
+"recommendations_button_title" = "推奨事項";
+
+"oneMonth" = "1ヶ月";
+"twoMonth" = "2ヶ月";
+"threeMonth" = "3ヶ月";
+"sixMonth" = "6ヵ月";
+
+"january" = "1月";
+"february" = "2月";
+"march" = "3月";
+"april" = "4月";
+"may" = "5月";
+"june" = "6月";
+"july" = "7月";
+"august" = "8月";
+"september" = "9月";
+"october" = "10月";
+"november" = "11月";
+"december" = "12月";
+
+// MARK: - About blood loss
+
+"lastDateOfBloodLossRequired" = "最後の失血の日付が必要";
+"relatedToBloodLoss" = "失血には以下が含まれます：";
+
+"laparoscopy" = "腹部手術または腹腔鏡検査";
+"bloodTransition" = "輸血";
+"bloodDonation" = "寄付";
+"accident" = "大きな偶発的な失血";
+"givingBirth" = "出産（最初または最後）";
+"abortion" = "中絶";
+"fetalLoss" = "胎児の喪失";
+
+// MARK: - Blood group picker
+
+"chooseBloodGroup" = "Выберите группу крови";
+"rhesusFactor" = "Rh因子";
+
+// MARK: - Parents Screen
+
+"bloodLoss_date_title" = "失血日";
+"father_section_title" = "お父さん";
+"mother_section_title" = "母";
+"mother_about_rhesus_factor" = "Обратите внимание, что Резус -фактор играет важную роль в расчете. Если мама носитель группы крови с отрицательным резус-фактором, то пол малыша будет зависеть от того, у кого кровь более старая. Пожалуйста, учитывайте это при расчете";
+
+// MARK: - Parent Screen
+
+"parent_screen_title" = "親の情報を保存";
+"parentName" = "親の名前";
+"chooseParentGender" = "親の性別を選択してください";
+"birthdayDate" = "生年月日";
+"buttonSave" = "Сохранить";
+
+"femaleGender" = "女性";
+"maleGender" = "男性";
+
+// MARK: - Premium Screen
+
+"my_premium_title" = "私のプレミアムサブスクリプション";
+"my_trial_title" = "Мой пробный период";
+"valid_until" = "まで有効";
+
+"buttonBuy" = "購入";
+"buttonRestore" = "Restore purchases";
+
+"premium_title_one" = "赤ちゃんの性別計画";
+"premium_title_two" = "親の情報を保存";
+"premium_title_three" = "利点";
+
+"premium_description_one" = "あなたは子供の望ましい性別を選択することができ、アプリケーションは受胎の有利な日付を計算します.";
+"premium_description_two" = "Появится возможность сохранить данные о родителях, чтобы при повторном расчете не вводить их заново.";
+"premium_description_three" = "あなたは子供の望ましい性別を選択することができ、アプリケーションは受胎の有利な日付を計算します.";
+
+"premium_alert_title" = "注意";
+"premium_alert_message" = "「サブスクリプションの読み込みエラー。
+サブスクリプション情報の読み込み中にエラーが発生しました。 考えられる理由：
+         1）インターネット接続が不安定または欠落している
+         2）デバイスにApple IDアカウントがない
+         3）Appleサーバーの問題」";
+
+"premium_title_trial_period" = "Условия использования пробного периода";
+"premium_three_days_free" = "3 дня бесплатно";
+"premium_subscribe" = "Подписки";
+"premium_about_trial_period_first" = "Использование бесплатного пробного периода будет доступно в течение 3 дней, после окончания бесплатного пробного периода подписка будет автоматически продлена на 1 месяц, а с вашего счета будет списана плата за один расчетный период согласно условиям подписки";
+"premium_about_trial_period_last" = "В случае отказа от использования функционала доступного по условиям Премиум подписки и избежания списания средств, отмените подписку до окончания пробного периода. Это можно сделать в настройках вашего Apple ID.";
+
+
+// MARK: - Subscriptions Screen
+
+"subscription_description" = "「アプリケーションのプレミアムサブスクリプションを取得すると、胎児の性別を計画できます。
+将来の計算のために、好ましい出生日と親データとともに結果を保存してください。」";
+
+"subscription_oneMonth" = "/1か月";
+"subscription_threeMonths" = "/ 3ヶ月";
+"subscription_sixMonths" = "/ 6か月";
+"subscription_oneYear" = "/1年";
+
+"subscription_threeMonths_saving" = "Экономия при подписке на 3 месяца -";
+"subscription_sixMonths_saving" = "Экономия при подписке на 6 месяцев -";
+"subscription_oneYear_saving" = "Экономия при годовой подписке -";
+
+"subscription_valid_until" = "Действует до:";
+
+"purchasing_subscription" = "Идет приобретение подписки";
+"purchasing_reloading_subscribe" = "Идет восстановление покупки";
+"purchasing_subscription_success" = "Подписка успешно приобретена";
+"purchasing_reloading_success" = "Покупка успешно восстановлена";
+"purchasing_subscription_failure" = "Не удалось приобрести подписку";
+"purchasing_reloading_failure" = "Не удалось восстановить покупки";
+
+// MARK: - Saved Result Screen
+
+"showAllDates" = "すべての日付を表示";
+"calculation" = "計算";
+
+"recommendations_boy" = "1.基準となる排卵日の3〜4日前に性交をしないでください。 精子の量が多くなります。
+2.温浴は少なくとも7日間除外されます。
+3.受胎は、出産の性の間にのみ機能します。
+4.受胎後の性行為は避妊薬（コンドーム）を使用して行われます。
+5.受胎時には、状態をオルガスムにすることが最良の状態です。
+6.最大限の精子集中を実現するには、より長い前戯をお楽しみください。
+7.あなたの姿勢は深い浸透を提供する必要があります。
+8.愛の行為の前のコーヒー（セックスの2時間前）は、精子の数を増やします。
+9.グリースは使用しないでください。\n
+「受胎の2か月前に、有機体を酸化して人間の精子を生存させる特別な食事に固執しました。男性の赤ちゃんの性別の場合：
+
+肉、ジャガイモ、漬物、ソーセージ、マッシュルーム、バナナ、アプリコット、オレンジ、桃、イチジクを食べる必要があります。 お茶、コーヒー、フルーツジュースを飲みます。 乳製品、キャベツ、ナッツ、豆を食事から除外します。 卵、エビ、チーズ、ナッツ、ミルクチョコレート、グリーンサラダ、牛乳のカクテル、軟水、カルシウムを含むミネラルウォーターを飲むことは望ましくありません。
+
+この食事療法は良い結果をもたらします。 それはよりoxyd環境を作るのに役立ちます。 それは男の子の受胎により有利になる生化学的卵の組成に影響を与えます。」";
+
+"recommendations_girl" = "「女の子の時期は2〜3日前です。この時点で卵を受け取る場所は女性の「X精子です。環境と状態は理想的です。女性が自分の周期のカレンダーを維持するのに十分であり、その後、彼女は単純に都合の良い日を計算します。\n
+女の子がいる可能性を高めるために：
+1.ポーズは、浅い浸透（クラシックポーズ）を提供する必要があります。
+2.性交は受胎日の前後に行うことができます。
+3.体内での精子の固定時間は20分です。」「女の子の受胎のための食事療法：
+* 肉類（牛肉、子牛肉、子羊肉）
+* 牛乳、カッテージチーズ、サワークリーム
+* 果物
+* お茶、フルーツジュース、ココア」";
+
+// MARK: - About App Screen
+
+"aboutApp" = "    「このアプリケーションは、2つの最もよく知られた方法を使用して、胎児の性別を決定するための計算ツールです。
+
+子供の実際の性別は、多くの要因や両親の生物の生理学的特性に依存する可能性があるため、両方の方法の計算結果は、どちらか一方の性別の子供を持つ確率のみを示しています。」";
+
+// MARK: - About Method
+
+"about_freymanDobrotin" = "    「この方法は、ニジニノヴゴロド州立大学スヴィアトスラフドブロチン医学部のスヴィアトスラフドブロチン教授の統計を使用してミハイルフライマンによって開発されました。これらの統計は、ドブロチン教授の勤務中にゴーリキーの産科病院1号の主治医としてまとめられ、検証されました。100件中99件の予測は正確でした。
+
+子供を妊娠することを決定した親は、最初に可能な受胎の日を決定する必要があります。これは、次の月経の開始から10〜15日になります。 次に、両親の生年月日によって、選択した受胎日に期待される子供の性別を決定します。 予測の結果が望ましくない場合は、構想を翌月に延期し、計算を繰り返す必要があります。
+
+More about this method:
+https://blogabout.me/conceive-a-boy-or-a-girl/
+";
+
+"about_bloodRenewal" = "    「この方法により、赤ちゃんの性別は、両親のどちらかが最も新鮮な血液を持っている両親の血液に依存します。したがって、父親が母親よりも血液更新日が遅い場合、男の子が生まれます。逆もまた同様です。
+
+    血には再生する性質があります。 女性の再生サイクルは3年に1回、男性のサイクルは4年に1回かかります。 女性の周期が早い場合、赤ちゃんの性別は女性になります。男性の周期が早い場合、赤ちゃんの性別は男性になります。 この場合、アカゲザル因子は非常に重要です。 母親がアカゲザルの因子が負である場合、将来の赤ちゃんの性別はだれが血を持っているかによって異なります。
+
+
+    失血は、血液の再生サイクルに直接影響します。 失血とは、400 ml以上の糞便を意味します。 例：腹部手術または腹腔鏡手術、輸血、献血、事故による大量失血など。女性の場合、出産（最初または最後）、妊娠中絶、赤ん坊の喪失を考慮する必要があります。」計算では、最新の失血の日付が考慮されます。
+
+More about this method:
+https://blogabout.me/conceive-a-boy-or-a-girl/
+https://myduedatecalculator.com/child-gender-calculator-by-updating-blood/
+";
+
+"disclaimer" = "Attention! The calculator is based on calculation methods not confirmed by official medical research and does not guarantee 100% accuracy!
+We recommend that you read more about the method.";
